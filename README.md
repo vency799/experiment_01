@@ -42,4 +42,5 @@
 
 3、其他
 
-.gitignore文件使用系统默认的文件。
+①.gitignore文件使用系统默认的文件。
+②库更名为“experiment_01”
